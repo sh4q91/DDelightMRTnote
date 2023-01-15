@@ -1,1 +1,43 @@
 
+"
+{time:00:05}00:05 - |cff91A4B6Pull|r - |cff006fdcShigenshockz|r {spell:2825}  
+{time:00:23}00:23 - |cffff0000Static Charge|r - |cff33937fScylia|r {spell:370537}  |cfffe7b09Onemoretree|r {spell:323764}  |cff006fdcAhku|r {spell:108281}  
+{time:00:41}00:41 - |cF3FF7000Hurricane Wings|r - |cff33937fScylia|r {spell:359816}  
+{time:00:58}00:58 - |cffff0000Static Charge|r - |cff33937fKnuppvoker|r {spell:363534}  |cff00fe97Alarkmonk|r {spell:322118}  |cffc59a6cSylaz|r {spell:97462}  
+{time:01:16}01:16 - |cF3FF7000Hurricane Wings|r - |cfffe7b09Shifthappèns|r {spell:124974}  |cff33937fKnuppvoker|r {spell:359816}  |cff006fdcShigenshockz|r {spell:108281}  
+{time:01:24}01:24 - |cff8811FFVolatile Current|r - |cfffe7b09Onemoretree|r {spell:197721}  |cfffe7b09Onemoretree|r {spell:323764}  |cff00fe97Alarkmonk|r {spell:115310}  
+{time:01:35}01:35 - |cffff0000Static Charge|r - |cfffe7b09Onemoretree|r {spell:740}  |cff33937fScylia|r {spell:363534}  |cffc59a6cPireh|r {spell:97462}  
+01:51 - |cff91A4B6Intermission 1|r - 
+{time:01:52,SAR:381249:1}03:54 - |cff91A4B6Phase 2|r - |cff8687edSolmyr|r {text}Gateway{/text}  
+{time:00:12,SAA:381249:2}04:06 - |cffffbb33Stormsurge|r - |cff00fe97Alarkmonk|r {spell:322118}  |cfffe7b09Onemoretree|r {spell:323764}  |cfffe7b09Onemoretree|r {spell:197721}  
+{time:00:20,SAA:381249:2}04:14 - |cfffa8072Stormsurge|r - |cfffe7b09Onemoretree|r {spell:740}  |cff006fdcShigenshockz|r {spell:108281}  
+{time:00:29,SAA:381249:2}04:23 - |cffff0000Stormsurge|r - |cfffefefeJoejim|r {spell:15286}  |cffa22fc8Yiza|r {spell:196718}  
+{time:00:47,SAA:381249:2}04:41 - |cF3FF7000Tempest Wing|r - |cff33937fScylia|r {spell:359816}  |cfffe7b09Shifthappèns|r {spell:124974}  |cfffe7b09Shifthappèns|r {spell:77764}  
+{time:01:09,SAA:381249:2}05:03 - |cff8811FFVolatile Current|r - |cff33937fScylia|r {spell:363534}  |cffc59a6cSylaz|r {spell:97462}  |cff006fdcAhku|r {spell:108281}  
+{time:01:17,SAA:381249:2}05:11 - |cF3FF7000Tempest Wing|r - |cfffe7b09Onemoretree|r {spell:77764}  
+{time:01:32,SAA:381249:2}05:26 - |cffffbb33Stormsurge|r - |cff00fe97Alarkmonk|r {spell:322118}  |cfffe7b09Onemoretree|r {spell:323764}  
+{time:01:40,SAA:381249:2}05:34 - |cfffa8072Stormsurge|r - |cff00fe97Alarkmonk|r {spell:115310}  |cff33937fKnuppvoker|r {spell:370537}  
+{time:01:49,SAA:381249:2}05:43 - |cffff0000Stormsurge|r - 
+{time:02:06,SAA:381249:2}06:00 - |cff8811FFVolatile Current|r - |cff33937fKnuppvoker|r {spell:363534}  |cff33937fScylia|r {spell:370537}  
+{time:02:12,SAA:381249:2}06:06 - |cF3FF7000Tempest Wing|r - |cff33937fKnuppvoker|r {spell:359816}  |cffc59a6cPireh|r {spell:97462}  |cff006fdcShigenshockz|r {spell:192077}  
+{time:02:32,SAA:381249:2}06:26 - |cF3FF7000Tempest Wing|r - |cff006fdcAhku|r {spell:192077}  
+{time:02:52,SAA:381249:2}06:46 - |cffffbb33Stormsurge|r - |cff00fe97Alarkmonk|r {spell:322118}  |cfffe7b09Onemoretree|r {spell:323764}  |cfffe7b09Onemoretree|r {spell:197721}  
+{time:03:00,SAA:381249:2}06:54 - |cfffa8072Stormsurge|r - |cfffe7b09Onemoretree|r {spell:740}  |cff006fdcShigenshockz|r {spell:108281}  
+{time:03:09,SAA:381249:2}07:03 - |cffff0000Stormsurge|r - |cff006fdcAhku|r {spell:108281}  |cfffefefeJoejim|r {spell:15286}  |cfffe7b09Shifthappèns|r {spell:124974}  
+{time:03:10,SAA:381249:2}07:04 - |cff91A4B6Intermission 2|r - 
+{time:01:28,SAR:381249:2}08:32 - |cff91A4B6Phase 3|r - 
+{time:00:09,SAA:381249:3}08:41 - |cff8811FFTank Debuff|r - 
+{time:00:13,SAA:381249:3}08:45 - |cff00ffffTank Explosion|r - |cffa22fc8Yiza|r {spell:196718}  
+{time:00:19,SAA:381249:3}08:51 - |cffff0000Magnetic Charge|r - |cfffe7b09Onemoretree|r {spell:323764}  |cfffe7b09Onemoretree|r {spell:197721}  
+{time:00:39,SAA:381249:3}09:11 - |cff8811FFTank Debuff|r - |cff00fe97Alarkmonk|r {spell:322118}  
+{time:00:43,SAA:381249:3}09:15 - |cff00ffffTank Explosion|r - |cff33937fKnuppvoker|r {spell:363534}  |cff006fdcAhku|r {spell:108281}  
+{time:00:54,SAA:381249:3}09:26 - |cF3FF7000Tempest Wing|r - |cff33937fScylia|r {spell:359816}  |cfffe7b09Shifthappèns|r {spell:124974}  
+{time:01:13,SAA:381249:3}09:45 - |cff00ffffTank Explosion|r - |cff33937fScylia|r {spell:370537}  |cffc59a6cPireh|r {spell:97462}  |cfffefefeJoejim|r {spell:15286}  
+{time:01:22,SAA:381249:3}09:54 - |cffff0000Magnetic Charge|r - |cff00fe97Alarkmonk|r {spell:115310}  |cff33937fScylia|r {spell:363534}  
+{time:01:39,SAA:381249:3}10:11 - |cff8811FFTank Debuff|r - |cff00fe97Alarkmonk|r {spell:322118}  
+{time:01:43,SAA:381249:3}10:15 - |cff00ffffTank Explosion|r - |cff33937fKnuppvoker|r {spell:370537}  |cfffe7b09Onemoretree|r {spell:740}  
+{time:01:56,SAA:381249:3}10:28 - |cffff0000Magnetic Charge|r - |cfffe7b09Onemoretree|r {spell:323764}  |cfffe7b09Onemoretree|r {spell:197721}  
+{time:01:58,SAA:381249:3}10:30 - |cF3FF7000Tempest Wing|r - |cff33937fKnuppvoker|r {spell:359816}  |cff006fdcShigenshockz|r {spell:108281}  
+"
+
+
